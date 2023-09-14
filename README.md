@@ -1,6 +1,5 @@
 <html>
 <head>
- <title>welcome to Zayd mohamed first website</title>
 </head>
 </body>
 <h1>Zayd's very first website!! </H1>
